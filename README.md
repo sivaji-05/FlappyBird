@@ -1,2 +1,2 @@
 # FlappyBird
-this a game developed using Java 
+this is a game developed using Java 
